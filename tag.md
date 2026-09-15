@@ -1,5 +1,7 @@
 # Somnus v1.0.0
 
+somnus-ai.vercel.app/ 
+
 ## Smart Sleep Stage Monitor & Intelligent Wake System
 
 The **Somnus v1.0.0** release brings together the core hardware, firmware, machine learning, backend, and frontend components into a unified sleep monitoring system.
